@@ -37,7 +37,17 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
+ 1.open the roboanalyzer software.
 
+2.select the robot and its degrees of freedom.
+
+3.change the values of X and Y wherever necessary.
+
+4.simulate the model for inverse kinematics.
+
+5.plot the graph between the joints.
+
+6.update the DH parameters of the link configuration and end effector configuration
 
 
 
@@ -45,41 +55,46 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### SIMULATION 
+
+ 
+ RPR ROBOT:
+ 
+ ![image](https://user-images.githubusercontent.com/78891098/174445799-d67ce054-2b36-481d-857d-8340fd36d5db.png)
+ 
+ ![image](https://user-images.githubusercontent.com/78891098/174445813-dfda534f-ab4f-4d00-91a1-b8645a277b55.png)
+
+
  
  
+ ![170623818-7cb4dee3-917f-4366-96ed-a9dbcd9865f8](https://user-images.githubusercontent.com/78891075/174421881-f0ce242f-52a7-4813-a70e-8c60c28d5cbf.png
  
  
+ 3R ROBOT:
+ ![image](https://user-images.githubusercontent.com/78891098/174445852-f26cfd80-78c2-4439-9a59-294dca52378f.png)
+
+ ![image](https://user-images.githubusercontent.com/78891098/174445857-5a98af30-a9c6-482c-8911-87e747056525.png)
  
  
  
  ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+ RPR ROBOT:
  
 
+ ![image](https://user-images.githubusercontent.com/78891098/174445879-8a829a2a-cba8-443a-ba2e-2d298a977749.png)
+
  
- 
+![image](https://user-images.githubusercontent.com/78891098/174445888-cf01fc55-95b5-43b2-b05a-905af0ca365b.png)
+
+ 3R ROBOT:
+
+![image](https://user-images.githubusercontent.com/78891098/174445909-07f49bd2-7529-4448-94c0-f606ed7deb28.png)
+
+
+![image](https://user-images.githubusercontent.com/78891098/174445913-6e35c298-7a58-458b-9a91-7613dee9ae81.png)
 
 
 
 
+### RESULTS :  Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
 
-
-
-
-
-
-
-
-
-
-### RESULTS :  
